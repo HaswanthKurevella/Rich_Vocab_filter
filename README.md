@@ -12,8 +12,11 @@ This project provides a Python script to extract rich vocabulary words from a PD
 
 Before running the script, make sure you have Python installed along with the necessary libraries:  
 
-- PyMuPDF (`fitz` module)
-- nltk (Natural Language Toolkit)
+- **PyMuPDF (`fitz` module)**  
+  _PyMuPDF is a Python binding for MuPDF, a lightweight and high-performance PDF and XPS viewer. It allows for the opening, manipulation, and saving of various document formats, including PDF and XPS. The module provides powerful rendering capabilities, enabling users to convert document pages into images for visual representation. Additionally, PyMuPDF supports comprehensive text extraction, allowing users to extract text, images, and other data from documents for further analysis. Its versatility and efficiency make it a popular choice for developers working with document processing in Python._
+
+- **nltk (Natural Language Toolkit)**  
+  _The Natural Language Toolkit (NLTK) is a leading platform for building Python programs to work with human language data. It offers a comprehensive suite of libraries and programs for symbolic and statistical natural language processing (NLP) tasks. NLTK provides easy-to-use interfaces to over 50 corpora and lexical resources, including WordNet. It includes text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning. Widely used in education and research, NLTK supports the development of complex language-based applications._
 
 You can install the required libraries using pip:  
 
